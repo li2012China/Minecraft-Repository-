@@ -4,9 +4,9 @@
 
 </div>
 
-# 星月Minecraft版本库
+# Minecraft版本库
 
-### 星月Minecraft版本库 网页文件仓库
+### Minecraft版本库 网页文件仓库
 
 本项目运用了[OreUI](https://github.com/Spectrollay/OreUI)技术
 
